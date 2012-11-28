@@ -2,7 +2,7 @@
 /*
 Plugin Name: Change WordPress Email
 Version: 1.0
-Plugin URI: http://www.yudirosen.com
+Plugin URI: https://github.com/yrosen/Change-Wordpress-Email
 Description: This plugin allows you to set the From header on emails sent by WP - mail-from plugin on the wp.org site doesn't work with new WP
 Author: Yudi Rosen <yudi42@gmail.com>
 */
